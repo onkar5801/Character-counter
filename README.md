@@ -1,0 +1,2 @@
+# Character-counter
+mini project
